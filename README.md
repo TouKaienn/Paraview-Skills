@@ -2,7 +2,7 @@
 
 > **Early Stage Project**: These skills are in early development and may contain bugs or unexpected behaviors. Contributions, bug reports, and discussions are very welcome!
 
-A Claude Code skill for scientific visualization with ParaView. This skill trying to enable Claude CLI to help you create and manipulate 3D scientific visualizations including volume rendering, isosurfaces, streamlines, and more.
+Claude Code skills for scientific visualization with ParaView. These skills trying to enable Claude CLI to help you create and manipulate 3D scientific visualizations including volume rendering, isosurfaces, streamlines, and more.
 
 
 ## Prerequisites
